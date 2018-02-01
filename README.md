@@ -6,3 +6,4 @@
 
 ## Useful links:
 - [String Interpolation on Wikipedia](https://en.wikipedia.org/wiki/String_interpolation)
+- [The Iterable Protocol on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols)
