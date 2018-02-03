@@ -9,11 +9,15 @@
   * and automatically returns the expression.
 - **Block Body Syntax** - The block statement is often called compound statement in other languages. It allows you to use multiple statements where JavaScript expects only one statement.
 - **The Iterator Protocol** - is used to define a standard way that an object produces a sequence of values. What that really means is you now have a process for defining how an object will iterate. This is done through implementing the __.next()__ method.
+- **Set** - In ES6, there’s a new built-in object that behaves like a mathematical set and works similarly to an array. This new object is conveniently called a "Set". The biggest differences between a set and an array are:
+  * Sets are not indexed-based - you do not refer to items in a set based on their position in the set
+  * items in a Set can’t be accessed individually
 
 ## Useful links:
 - [String Interpolation on Wikipedia](https://en.wikipedia.org/wiki/String_interpolation)
 - [The Iterable Protocol on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols)
 - [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch2.md)
+- [Garbage collection](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management#Garbage_collection)
 
 ## Snippets:
 ### How the Iterator works:
